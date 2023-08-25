@@ -1,0 +1,16 @@
+/*!****************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./css/editor.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************/
+/* 3rd party packages */
+/* Modules */
+.cliowp-block-container {
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 20px;
+}
+.cliowp-block-container label {
+  text-transform: none;
+}
+
+/*# sourceMappingURL=editor.css.map*/
